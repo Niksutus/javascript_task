@@ -1,4 +1,4 @@
 console.log('Hello World');
 
 
-document.getElementById("slogan").innerHTML = "sample text";
+document.getElementById("slogan").innerHTML;
