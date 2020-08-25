@@ -1,4 +1,4 @@
 console.log('Hello World');
 
 
-document.getElementById("slogan").innerHTML;
+document.getElementById("slogan").innerText="WE ARE THE BEST";
